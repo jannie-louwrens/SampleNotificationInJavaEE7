@@ -2,7 +2,7 @@
 Asynchronous notification process in JavaEE 7 using CDI events.
 
 Read the accompaning article:
-* [Asynchronous notification process in JavaEE 7 using CDI events](https://www.linkedin.com/pulse/maintaining-legacy-applications-jannie-louwrens)
+* [Asynchronous notification process in JavaEE 7 using CDI events](https://www.linkedin.com/pulse/asynchronous-notifications-javaee-7-jannie-louwrens)
 
 ### Requirements
 
