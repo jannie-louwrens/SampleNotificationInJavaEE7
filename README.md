@@ -1,7 +1,7 @@
 # Sample Asynchronous Notifications in JavaEE 7
 Asynchronous notification process in JavaEE 7 using CDI events.
 
-Read the accompaning article:
+You can read the article at:
 * [Asynchronous notification process in JavaEE 7 using CDI events](https://www.linkedin.com/pulse/asynchronous-notifications-javaee-7-jannie-louwrens)
 
 ### Requirements
