@@ -18,13 +18,13 @@ In the directory where the code was installed, execute the CLI command:
 In the console you should see the following messages:
 
 ```sh
-18:29:31,605 INFO  [stdout] (default task-2) Busy registering student: Roxy in course: Science 101
-
-18:29:31,614 INFO  [stdout] (default task-2) Fired notification event.
-
-18:29:31,701 INFO  [stdout] (EJB default - 1) Sleep for a while to clearly show the effect of asynchronous.
-
-18:29:41,704 INFO  [stdout] (EJB default - 1) Sending notification now:
-
-18:29:41,705 INFO  [stdout] (EJB default - 1) You have successfully been registered.
+Jun 01, 2017 10:57:20 AM org.apache.deltaspike.testcontrol.api.junit.CdiTestSuiteRunner$LogRunListener testStarted
+INFO: [run] net.teksoft.demo.registration.RegistrationServiceTest#testWebOrderEvent
+Busy registering student: Roxy in course: Science 101
+Sleep for a while to clearly show the effect of asynchronous.
+Sending notification now:
+You have successfully been registered.
+Fired notification event.
+Jun 01, 2017 10:57:30 AM org.apache.deltaspike.testcontrol.api.junit.CdiTestSuiteRunner$LogRunListener testFinished
+INFO: [finished] net.teksoft.demo.registration.RegistrationServiceTest#testWebOrderEvent
 ```
